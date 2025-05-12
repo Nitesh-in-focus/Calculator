@@ -39,6 +39,6 @@ You can host it using GitHub Pages or any static server to see it in action.
 - Save calculation history
 - Add animation or sound feedback on button click
 
-## Website Link 
+## Webpage Link 
 
 - https://nitesh-in-focus.github.io/Calculator/
